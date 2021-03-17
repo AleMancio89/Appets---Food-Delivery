@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/71637754/111457771-e7a13a00-8718-11eb-8db4-6a9dee5b5ca3.png"></p>
 
 ## About Appets
-Appets � un progetto per una web app di food delivery che permette di ordinare cibo a domicilio nella citt� di Milano. <br>
+Appets è un progetto per una web app di food delivery che permette di ordinare cibo a domicilio nella citt� di Milano. <br>
 Per effettuare un ordine sulla piattaforma non � richiesta la registrazione. Inoltre, grazie ad un filtro avanzato di ricerca, ogni utente pu� scegliere il ristorante pi� adatto alle proprie esigenze.<br>
 <br>
 Ai ristoranti che decidono di entrare a far parte del network di Appets viene messa a disposizione un'area privata, nella quale l'utente pu� gestire in maniera semplice ed immediata il men�, gli ordini, le statistiche sulle vendite ed i dati relativi al ristorante.
